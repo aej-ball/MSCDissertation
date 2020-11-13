@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome scene.unity
+    guid: eea22da93cf97478090f84025f2a4931
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: ff0cfca51e23249939772d9cd987474f
+  - enabled: 1
+    path: Assets/Scenes/Navigation Tour.unity
+    guid: a4e84b358d3a44115b5b499df2786d95
+  - enabled: 1
+    path: Assets/Scenes/TownMap.unity
+    guid: 768d873a3ba93496fbfa8256226ebb29
+  - enabled: 0
+    path: Assets/Policecall.unity
+    guid: dd53fd7605ba043a096ef9b371319a52
+  - enabled: 1
+    path: Assets/Scenes/PolicemansCall.unity
+    guid: 6c6479cd93a684d1dbfb030f7cb9d671
+  - enabled: 1
+    path: Assets/Scenes/ChelworthHall.unity
+    guid: 87f6a216e967d4819bb3f863991b5f1c
+  - enabled: 1
+    path: Assets/Scenes/ChelworthKitchen.unity
+    guid: 5d7fb8a556e474e448ee1adf2275169b
+  - enabled: 1
+    path: Assets/Scenes/ChelworthGarden.unity
+    guid: ce3f6b04d8e2f46ca8418bc204ccf817
+  - enabled: 1
+    path: Assets/Scenes/SocialMediaHenry.unity
+    guid: 1d8fb983bac4b4ed3807c227cac28547
+  - enabled: 1
+    path: Assets/Scenes/InterviewHenry.unity
+    guid: 9b95aaf4db5b2498d95832d9b96181c6
+  - enabled: 1
+    path: Assets/Scenes/InterviewFionaFoxley.unity
+    guid: 0c67d655c7c96444689d34fe333f1f20
+  - enabled: 1
+    path: Assets/Scenes/InterviewSusanPerrott.unity
+    guid: 55d2f24f4a5104d12ba3fd9f9794d2a9
+  - enabled: 1
+    path: Assets/Scenes/InterviewChristopherCoates.unity
+    guid: d26dec4fc678b4310b8b86d148e8ccb7
+  - enabled: 1
+    path: Assets/Scenes/WhoToInt.unity
+    guid: bc77772fc41524adda75aebf55b4fcbc
+  - enabled: 1
+    path: Assets/Scenes/AddressBook.unity
+    guid: fa411cfadc0c3428a9873c3c69f77857
+  - enabled: 1
+    path: Assets/Scenes/SocialMedia.unity
+    guid: 3d5b127fcac2740cda5dbf21bab75ee9
+  - enabled: 1
+    path: Assets/Scenes/PoliceDesk.unity
+    guid: 99e8e90b227bb474dae0dba3e8af2564
+  m_configObjects: {}
